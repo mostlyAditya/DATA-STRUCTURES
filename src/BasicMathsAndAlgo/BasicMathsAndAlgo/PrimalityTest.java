@@ -1,4 +1,4 @@
-package BasicMathsAndAlgo;
+package BasicMathsAndAlgo.BasicMathsAndAlgo;
 
 import java.util.*;
 
